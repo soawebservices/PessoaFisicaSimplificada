@@ -11,4 +11,4 @@ Acesse no site: http://www.soawebservices.com.br/clientes/
 
 Não esquecer de adicionar o package do RestSharp
 
-No Visual Studio utilizar o Package Manager Console: Install-Package RestSharp
+No Visual Studio utilizar o Package Manager Console: *Install-Package RestSharp*
